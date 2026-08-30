@@ -1,1 +1,0 @@
-vibe coded single page simple racer.
